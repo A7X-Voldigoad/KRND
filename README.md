@@ -1,17 +1,15 @@
 <h1 align="center"> Hello Word :V </h1>
-
 <p align="center">
+$ pkg update && pkg upgrade -y
 
-pkg update && pkg upgrade -y
+$ pkg install git
 
-pkg install git
+$ pkg install python
 
-pkg install python
-pip install -r req.txt
-git clone https://github.com/A7X/KRND
+$ pip install -r req.txt
 
-cd $HOME/KRND
+$ git clone https://github.com/A7X/KRND
 
-python krnd.py
+$ cd $HOME/KRND
 
-
+$ python krnd.py
