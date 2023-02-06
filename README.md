@@ -9,7 +9,7 @@ $ pkg install python
 
 $ pip install -r req.txt
 
-$ git clone https://github.com/A7X/KRND
+$ git clone https://github.com/A7X-Voldigoad/KRND
 
 $ cd $HOME/KRND
 
