@@ -7,7 +7,7 @@ pkg update && pkg upgrade -y
 pkg install git
 
 pkg install python
-
+pip install -r req.txt
 git clone https://github.com/A7X/KRND
 
 cd $HOME/KRND
